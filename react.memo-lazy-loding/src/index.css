@@ -25,7 +25,8 @@ a:hover {
 body {
   margin: 0;
   display: flex;
-  place-items: center;
+ justify-content: center;
+ margin-top: 100px;
   min-width: 320px;
   min-height: 100vh;
 }
@@ -36,8 +37,9 @@ h1 {
 }
 
 button {
+  justify-content: center;
   border-radius: 8px;
-  border: 1px solid transparent;
+  border: 1px solid black;
   padding: 0.6em 1.2em;
   font-size: 1em;
   font-weight: 500;
