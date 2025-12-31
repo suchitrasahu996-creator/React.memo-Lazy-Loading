@@ -11,7 +11,7 @@ function HeavyComponent() {
   return (
     <div>
       <h2>Heavy Component</h2>
-      <p>This Component is Expensive to render.</p>
+      <p>This Component is Expensive to Render.</p>
     </div>
   );
 }
